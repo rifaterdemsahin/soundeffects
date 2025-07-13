@@ -1,0 +1,6 @@
+door_sounds:
+  - description: "heavy wooden door creaking open"
+  - description: "modern glass sliding door opening smoothly"
+  - description: "metal prison door slamming shut"
+  - description: "car door opening and closing"
+  - description: "rusty gate squeaking open"
